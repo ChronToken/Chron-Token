@@ -18,9 +18,9 @@ In addition, as delivery services grow, Chron will be a viable solution for paym
 ## Tokenomics
 - Max Supply: 1,000,000,000,000
 - Max TX: 20,000,000,000 (2%)
-- 3% Total Fee
+- 4% Total Fee
+- 2% fee is automatically added to the liquidity pool.
 - 1% of all sells are automatically redistributed to all holders.
-- 1% fee is automatically added to the liquidity pool.
 - 1% fee goes to a developer address to fund development and marketing.
 
 ## Socials
